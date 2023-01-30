@@ -1,0 +1,21 @@
+Product Group ID,Product Name,Type,Currency,Current Ref. Rate,Fixed or Floating,Payment Profile
+PRD001,Interest Only,Business Lending,AUD,2.78,Fixed,3
+PRD002,Business Overdraft,Overdraft,AUD,3.46,Floating,2
+PRD003,Fixed Term Loan,Business Lending,AUD,2.98,Fixed,1
+PRD004,Wholesale Term Loan,Business Lending,AUD,2.56,Fixed,1
+PRD005,Personal Home Loans,Personal Lending,AUD,3.28,Fixed,2
+PRD006,Finance Lease,Alternative Lending,AUD,2.64,Fixed,1
+PRD007,Hire Purchase,Alternative Lending,AUD,2.54,Fixed,1
+PRD008,Gold Master Credit Card,Credit Cards,AUD,3.6,Fixed,1
+PRD009,Dealing Limits,Alternative Lending,AUD,3.57,Fixed,2
+PRD010,Gold Visa Credit Card,Credit Cards,AUD,3.39,Fixed,1
+PRD011,Trade Finance Currency,Trade Finance,AUD,2.67,Fixed,2
+PRD012,Bank Guarantee,Alternative Lending,AUD,3.35,Fixed,1
+PRD013,Letter of Credit,Trade Finance,AUD,3.07,Fixed,2
+PRD014,Home Loans for Multi Purpose,Personal Lending,AUD,3.2,Fixed,2
+PRD015,Home Equity Loans,Personal Lending,AUD,2.85,Fixed,3
+PRD016,Multi Option Credit Line,Credit Cards,AUD,3.12,Fixed,1
+PRD017,Visa Credit Card,Credit Cards,AUD,3.09,Floating,2
+PRD018,Business Line of credit,Alternative Lending,AUD,3.09,Fixed,3
+PRD019,Personal Overdraft,Alternative Lending,AUD,3.55,Fixed,2
+PRD020,Master Credit Card,Credit Cards,AUD,3.62,Floating,1
